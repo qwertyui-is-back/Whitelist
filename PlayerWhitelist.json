@@ -29,6 +29,21 @@
                     ]
                 }
             ]
+        },
+        "default": {
+            "hash": "defaultdata",
+            "attackable": true,
+            "level": 0,
+            "tags": [
+                {
+                    "text": "CAT V5 USER",
+                    "color": [
+                        255,
+                        255,
+                        0
+                    ]
+                }
+            ]
         }
     }
 }
