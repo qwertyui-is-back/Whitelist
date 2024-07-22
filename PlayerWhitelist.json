@@ -1,49 +1,64 @@
 {
-    "WhitelistedUsers": {
-        "1145068116007718952": {
-            "hash": "d47807e11ca05e43cf45bacb56ee833e440c0e42977d36a02d79878618aee66e90d50c574e114f8d116ad34704f6ac540397571da6f3ec39eb1b5a80b60b4558",
-            "attackable": false,
-            "level": 3,
-            "tags": [
-                {
-                    "text": "CAT V5 OWNER",
-                    "color": [
-                        57,
-                        56,
-                        110
-                    ]
-                }
-            ]
-        },
-        "1162625831282147431": {
-            "hash": "dc97fbafe5ca1adb137d6bbaf76c5970e3bf51a18bc83f9fc78c543754c40a01c7cab7b9a7950b1c21dba3feb97089a65c437ed0f090fe916bf51c2e17d8f75f",
-            "attackable": false,
-            "level": 2,
-            "tags": [
-                {
-                    "text": "CAT V6 USER",
-                    "color": [
-                        255,
-                        180,
-                        60
-                    ]
-                }
-            ]
-        },
-        "default": {
-            "hash": "defaultdata",
-            "attackable": true,
-            "level": 0,
-            "tags": [
-                {
-                    "text": "CAT V5 USER",
-                    "color": [
-                        255,
-                        255,
-                        0
-                    ]
-                }
-            ]
+  "WhitelistedUsers": {
+    "1145068116007718952": {
+      "hash": "d47807e11ca05e43cf45bacb56ee833e440c0e42977d36a02d79878618aee66e90d50c574e114f8d116ad34704f6ac540397571da6f3ec39eb1b5a80b60b4558",
+      "attackable": false,
+      "level": 3,
+      "tags": [
+        {
+          "text": "CAT V5 OWNER",
+          "color": [
+            57,
+            56,
+            110
+          ]
         }
+      ]
+    },
+    "1162625831282147431": {
+      "hash": "dc97fbafe5ca1adb137d6bbaf76c5970e3bf51a18bc83f9fc78c543754c40a01c7cab7b9a7950b1c21dba3feb97089a65c437ed0f090fe916bf51c2e17d8f75f",
+      "attackable": false,
+      "level": 2,
+      "tags": [
+        {
+          "text": "CAT V6 USER",
+          "color": [
+            255,
+            180,
+            60
+          ]
+        }
+      ]
+    },
+    "default": {
+      "hash": "defaultdata",
+      "attackable": true,
+      "level": 0,
+      "tags": [
+        {
+          "text": "CAT V5 USER",
+          "color": [
+            255,
+            255,
+            0
+          ]
+        }
+      ]
+    },
+    "1265050766461112493": {
+      "hash": "c6ed43a3d15e6b99e05f3e43ac43a6cd3f8e11a6f39964855bf1a45dec154b08a28c62aac7750f06a13ed9e849601b451f8e8bda7ee65db61952209af9531b0a",
+      "attackable": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "CAT V6 USER",
+          "color": [
+            210,
+            43,
+            43
+          ]
+        }
+      ]
     }
+  }
 }
