@@ -44,21 +44,6 @@
           ]
         }
       ]
-    },
-    "1265050766461112493": {
-      "hash": "c6ed43a3d15e6b99e05f3e43ac43a6cd3f8e11a6f39964855bf1a45dec154b08a28c62aac7750f06a13ed9e849601b451f8e8bda7ee65db61952209af9531b0a",
-      "attackable": false,
-      "level": 1,
-      "tags": [
-        {
-          "text": "CAT V6 USER",
-          "color": [
-            210,
-            43,
-            43
-          ]
-        }
-      ]
     }
   }
 }
