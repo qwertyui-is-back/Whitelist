@@ -6,7 +6,7 @@
       "level": 3,
       "tags": [
         {
-          "text": "<font color=\\\"rgb(60, 59, 110)\\\">AME</font><font color=\\\"rgb(178, 34, 52)\\\">R</font><font color=\\\"rgb(255, 255, 255)\\\">I</font><font color=\\\"rgb(178, 34, 52)\\\">C</font><font color=\\\"rgb(178, 34, 52)\\\">A</font>",
+          "text": "<font color=\"rgb(60, 59, 110)\">AME</font><font color=\"rgb(178, 34, 52)\">R</font><font color=\"rgb(255, 255, 255)\">I</font><font color=\"rgb(178, 34, 52)\">C</font><font color=\"rgb(178, 34, 52)\">A</font>",
           "color": [
             127,
             90,
@@ -90,5 +90,11 @@
         }
       ]
     }
+  },
+  "BlacklistedUsers": {},
+  "Announcement": {
+    "text": "Thanks for using Cat V5! (From qwerty <3)",
+    "expiretime": 1819510977,
+    "targets": "all"
   }
 }
