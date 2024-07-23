@@ -104,6 +104,21 @@
           ]
         }
       ]
+    },
+    "1150329130571796541": {
+      "hash": "593b41924dfd918c68accf2e2d1e050e9b916aec5cb460ea146e07b6fbea3c67bd1ef8b4dc9b24010548f5b9f7f59cda7b990e33292ead34184728b62bc4c2df",
+      "attackable": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "SARAH",
+          "color": [
+            3,
+            43,
+            0
+          ]
+        }
+      ]
     }
   },
   "BlacklistedUsers": {},
