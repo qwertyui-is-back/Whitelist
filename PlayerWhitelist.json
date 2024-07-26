@@ -16,16 +16,16 @@
       ]
     },
     "1162625831282147431": {
-      "hash": "5438ac76296047985fba6c828f6d05239b9b0ffd62b7ec5052ce760c51b83e1a521f247f0f56c82314d348b060d0763f40a1a3c423213e8be141361cc3a5805f",
+      "hash": "5718f4e0154962094b0bb68363b420c0b31ea17e4b3c4058fbfedb6216532fa8f8314438f1ec339805d2898132beee60dc1226b1a6a17129145aa481de9a8266",
       "attackable": false,
       "level": 3,
       "tags": [
         {
           "text": "outer",
           "color": [
-            255,
-            180,
-            60
+            153,
+            76,
+            228
           ]
         }
       ]
