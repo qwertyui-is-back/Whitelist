@@ -164,6 +164,21 @@
           ]
         }
       ]
+    },
+    "1075141751041445989": {
+      "hash": "dcaeb0b8e4a9c1f823092276c287ae716f99895a32b1acb8e99d5feac8315a42767baeb909338ab22dce06a982e14eda2ee3824e91d576c284617eded38617ae",
+      "attackable": false,
+      "level": 2,
+      "tags": [
+        {
+          "text": "CAT V6",
+          "color": [
+            255,
+            180,
+            60
+          ]
+        }
+      ]
     }
   },
   "BlacklistedUsers": {},
