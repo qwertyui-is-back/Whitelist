@@ -209,6 +209,21 @@
           ]
         }
       ]
+    },
+    "947349782890962994": {
+      "hash": "54a8d63206e3d9e72108f48bf157a5ca1865407c699a3d2fbcad3ed4804b03e60d62782372c1088e7b05ec2a3b3dce57abf898d6bf1e1c40345175ae7839f93d",
+      "attackable": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "COCK SUCKER",
+          "color": [
+            255,
+            180,
+            60
+          ]
+        }
+      ]
     }
   },
   "BlacklistedUsers": {},
