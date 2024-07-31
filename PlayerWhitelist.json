@@ -1,20 +1,5 @@
 {
   "WhitelistedUsers": {
-    "1145068116007718952": {
-      "hash": "5a117a4e7997a2a6b71bc9b67d6945eb0a28eae210486298b8c2bbcecf140bdb0ca0447b176bb1422beaae682d65f426a6e30bf099872eca4d44d4f0c81de7a2",
-      "attackable": false,
-      "level": 3,
-      "tags": [
-        {
-          "text": "CAT V5 OWNER",
-          "color": [
-            128,
-            0,
-            255
-          ]
-        }
-      ]
-    },
     "1162625831282147431": {
       "hash": "5718f4e0154962094b0bb68363b420c0b31ea17e4b3c4058fbfedb6216532fa8f8314438f1ec339805d2898132beee60dc1226b1a6a17129145aa481de9a8266",
       "attackable": false,
