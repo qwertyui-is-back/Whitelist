@@ -1,20 +1,5 @@
 {
   "WhitelistedUsers": {
-    "1145068116007718952": {
-      "hash": "5a117a4e7997a2a6b71bc9b67d6945eb0a28eae210486298b8c2bbcecf140bdb0ca0447b176bb1422beaae682d65f426a6e30bf099872eca4d44d4f0c81de7a2",
-      "attackable": false,
-      "level": 3,
-      "tags": [
-        {
-          "text": "\ud83c\udf55\ud83c\udf55\ud83c\udf55\ud83c\udf55\ud83c\udf55",
-          "color": [
-            255,
-            180,
-            60
-          ]
-        }
-      ]
-    },
     "default": {
       "hash": "defaultdata",
       "attackable": true,
@@ -33,8 +18,8 @@
   },
   "BlacklistedUsers": {},
   "Announcement": {
-    "text": "Thanks for using Cat V5! (From qwerty <3)",
-    "expiretime": 1819510977,
+    "text": "kys",
+    "expiretime": 1619510977,
     "targets": "all"
   }
 }
