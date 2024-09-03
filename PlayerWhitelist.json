@@ -74,6 +74,21 @@
           ]
         }
       ]
+    },
+    "981187721647243274": {
+      "hash": "f7dca0967b59f20fb0cd5bff1490d182432081f5d995c3653eeac08a7a8c07c650e42ff209c519717202f4069c016d778e21c09af469f5b1eb6a01788fe47d1d",
+      "attackable": false,
+      "level": "1",
+      "tags": [
+        {
+          "text": "CAT V5 PREMIUM",
+          "color": [
+            255,
+            145,
+            60
+          ]
+        }
+      ]
     }
   },
   "BlacklistedUsers": {},
