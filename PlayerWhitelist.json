@@ -1,20 +1,5 @@
 {
   "WhitelistedUsers": {
-    "default": {
-      "hash": "defaultdata",
-      "attackable": true,
-      "level": 0,
-      "tags": [
-        {
-          "text": "CAT V5 USER",
-          "color": [
-            255,
-            255,
-            0
-          ]
-        }
-      ]
-    },
     "554721871359377409": {
       "hash": "fdb381628d5a864d5e2295ddb3e2a670f591952b35e174e077397546b42efed659818f6d9734c0ecd3704459bf08d46a8b7132035382fd8c85a2e46ed0836181",
       "attackable": false,
@@ -198,7 +183,7 @@
   },
   "BlacklistedUsers": {},
   "Announcement": {
-    "text": "kys",
+    "text": "hey guys",
     "expiretime": 1619510977,
     "targets": "all"
   }
