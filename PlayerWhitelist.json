@@ -76,10 +76,19 @@
       ]
     },
     "1145068116007718952": {
-      "hash": "9c5506cf98f284510831f14d35df48a2af0dba9d448809806c791b89d98b35af1f27167a77cc92eeb0aed12daca8373a3823bb33dbba1066cb27a1d74534490d",
+      "hash": "eece7075c81b53b3c2824fa77d76406674c7ed267df56a44ac50be920bd0ea4f7f350df79f0ffdafbfe4d3ecb24ec064565ad6334730838317f247b538602186",
       "attackable": false,
       "level": 1,
-      "tags": null
+      "tags": [
+        {
+          "text": "<font color=\"rgb(57,56,110)\">AME</font><font color=\"rgb(179,28,49)\">R</font><font color=\"rgb(255,255,255)\">I</font><font color=\"rgb(179,28,49)\">C</font><font color=\"rgb(255,255,255)\">A</font><font color=\"rgb(179,28,49)\">N</font>",
+          "color": [
+            0,
+            0,
+            0
+          ]
+        }
+      ]
     },
     "1000432733467721799": {
       "hash": "349f5117ed260ec68b7ad48a894eced46a78f352977e8818e6671a97048b416a33fe037088d227ae41c3f35caa193dfdca4abb72569ea0fc77807a155c327b9e",
@@ -184,21 +193,6 @@
       "tags": [
         {
           "text": "HCKR",
-          "color": [
-            0,
-            0,
-            0
-          ]
-        }
-      ]
-    },
-    "1145068116007718952": {
-      "hash": "7b5710658487041467ebd43122fe56bb3a0dea6c52ec03f874f6f6a1ca2742c6b7b34fc1b87605148e6f45f19941a4e7d095fd6f3043f2a7598c18b63e4e1e35",
-      "attackable": false,
-      "level": 1,
-      "tags": [
-        {
-          "text": "<font color=\"rgb(57,56,110)\">AME</font><font color=\"rgb(179,28,49)\">R</font><font color=\"rgb(255,255,255)\">I</font><font color=\"rgb(179,28,49)\">C</font><font color=\"rgb(255,255,255)\">A</font><font color=\"rgb(179,28,49)\">N</font>",
           "color": [
             0,
             0,
