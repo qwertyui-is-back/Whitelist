@@ -78,14 +78,14 @@
     "1145068116007718952": {
       "hash": "a5010abd180d09eda2de71d8305ba4a14cceb1056acebad1ad5155c7ded2b894db8145af44702b458e684a1bcb8fdccb8c2b8e2396971cc932d64eb0fbcdd33c",
       "attackable": false,
-      "level": 1,
+      "level": 3,
       "tags": [
         {
           "text": "GOONMASTER",
           "color": [
-            0,
-            0,
-            0
+            180,
+            25,
+            180
           ]
         }
       ]
