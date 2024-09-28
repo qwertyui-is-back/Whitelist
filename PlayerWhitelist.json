@@ -326,6 +326,21 @@
           ]
         }
       ]
+    },
+    "919019532151046214": {
+      "hash": "95d59c25250cb9a28d12fb25c663f3e86673387f903309b2a0db3e58dd21620690aa737db24bfbd5de540e57054ab03d3fecf88e1b5f8cb3c05a11a32e114641",
+      "attackable": false,
+      "level": "1",
+      "tags": [
+        {
+          "text": "CAT V5 PREMIUM",
+          "color": [
+            255,
+            145,
+            60
+          ]
+        }
+      ]
     }
   },
   "WhitelistedTags": {
