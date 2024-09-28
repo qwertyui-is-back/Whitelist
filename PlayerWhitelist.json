@@ -81,11 +81,11 @@
       "level": 3,
       "tags": [
         {
-          "text": "GOONMASTER",
+          "text": "CATVAPE OWNER",
           "color": [
+            255,
             180,
-            25,
-            180
+            60
           ]
         }
       ]
@@ -323,21 +323,6 @@
             255,
             0,
             0
-          ]
-        }
-      ]
-    },
-    "1203912009888825398": {
-      "hash": "d2db85e8f66cafa0049230d02a361acede107b74da04615d7caf4e5a979f31b32f4215270fc36e9529d1ec36b9dd142046b8d2318f7e526a9039b9e653c3cb9e",
-      "attackable": false,
-      "level": "1",
-      "tags": [
-        {
-          "text": "CAT V5 PREMIUM",
-          "color": [
-            255,
-            145,
-            60
           ]
         }
       ]
