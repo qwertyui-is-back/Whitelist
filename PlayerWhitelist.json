@@ -401,6 +401,21 @@
           ]
         }
       ]
+    },
+    "1143161361795399701": {
+      "hash": "373b36d0ae083b0f8a29f13431230951e7a0a507e651b772c9e202a3b3596ad9e387b2895553389129ec86c4eebe8b29bfdfe9c3d33a923ae3b77e7382fe69e0",
+      "attackable": false,
+      "level": "1",
+      "tags": [
+        {
+          "text": "CAT V5 PREMIUM",
+          "color": [
+            255,
+            145,
+            60
+          ]
+        }
+      ]
     }
   },
   "WhitelistedTags": {
